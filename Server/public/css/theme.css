@@ -1,0 +1,28 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.form {
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  padding: 20px;
+  top: 20px;
+  -webkit-box-shadow: 0 2px 2px 1px rgba(0,0,0,0.2);
+  box-shadow: 0 2px 2px 1px rgba(0,0,0,0.2);
+}
+

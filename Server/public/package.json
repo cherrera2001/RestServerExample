@@ -1,0 +1,13 @@
+{
+  "name": "formapp",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "angular-formly": "~8.4.1",
+    "angular-formly-templates-bootstrap": "~6.4.0",
+    "bootstrap": "~3.3.7",
+    "api-check": "~7.5.5",
+    "angular": "^1.6.4"
+
+  }
+}
